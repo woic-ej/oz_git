@@ -2,7 +2,11 @@ team: oz_fullstack
 
 leader: 성훈
 
+<<<<<<< HEAD
 coach: 서율
+=======
+coach: 민재
+>>>>>>> 618a17a (fullstack팀 변경)
 
 member:
   - 남욱
